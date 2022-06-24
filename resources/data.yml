@@ -1,6 +1,7 @@
 # common pages
 adminpage:      https://www.phptravels.net/api/admin
 customerpage:   https://www.phptravels.net/login
+hotelspage:     https://www.phptravels.net/api/admin/hotels
 
 # usernames and passwords that should otherwise be in a secrets file
 customerid: user@phptravels.com

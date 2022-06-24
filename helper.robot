@@ -1,8 +1,9 @@
 *** Settings ***
+Library     FakerLibrary
 Resource    resources/givens.robot
 Resource    resources/whens.robot
 Resource    resources/thens.robot
-Variables    resources/data.yml
+Variables   resources/data.yml
 
 *** Keywords ***
 # Surprisingly not an obvious way to assert an element is present on the page
